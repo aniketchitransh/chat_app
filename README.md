@@ -1,6 +1,6 @@
 # Demo A/C 
 
-username: demo
+username: demo\
 secret/ password : demochat
 
 # Getting Started with Create React App
